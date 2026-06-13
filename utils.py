@@ -26,7 +26,7 @@ def plant_carrot():
 def plant_pumpkin():
     till_to(Grounds.Soil)
     plant(Entities.Pumpkin)
-    maintain_water_level(0.25)
+    maintain_water_level(0.75)
     return
 
 
