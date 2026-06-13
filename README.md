@@ -1,5 +1,18 @@
 # The Farmer Was Replaced
 
+## Pumpkin
+
+> The yield of a giant pumpkin depends on the size of the pumpkin.
+>
+> ...
+> A `nxn` pumpkin yields `n*n*6` pumpkins for `n >= 6`.
+>
+> It's a good idea to get at least 6x6 size pumpkins to get the full multiplier.
+
+### Pumpkin Master
+
+Multiple drones are used to plant pumpkins in [`pumpkin_master.py`](./pumpkin_master.py).
+
 ## Cactus
 
 > A cactus is considered to be in sorted order if all neighboring cacti to the `North` and `East` are fully grown and larger or equal in size and all neighboring cacti to the `South` and `West` are fully grown and smaller or equal in size.
